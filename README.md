@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zmk5566
-- 👀 I’m interested in Wearable for pets
+- 👀 I’m interested in wearable for pets
 - 🌱 I’m currently learning well-being for dogs
 - 💞️ I’m looking to collaborate on iot for dogs
 - 📫 You can reach me using the uni email！
